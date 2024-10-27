@@ -1,7 +1,6 @@
 # 🥔 Potato Disease Classification 🍃
 
-![Potato Disease Detection](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
+![Potato Disease Detection](https://media.giphy.com/media/l46Coblu8EE8Z8QYo/giphy.gif)
 ## 📜 Overview
 This project focuses on identifying diseases in potato plants using advanced deep learning techniques, enabling farmers to take timely action and reduce crop loss. We trained a Convolutional Neural Network (CNN) on a dataset of potato leaves affected by various diseases to accurately classify leaf health status.
 
